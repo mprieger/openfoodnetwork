@@ -215,7 +215,7 @@ GEM
       railties (>= 3.0.0)
     faraday (1.0.0)
       multipart-post (>= 1.2, < 3)
-    ffaker (1.32.1)
+    ffaker (2.11.0)
     ffi (1.12.2)
     figaro (1.1.1)
       thor (~> 0.14)
@@ -712,7 +712,7 @@ DEPENDENCIES
   dfc_provider!
   eventmachine (>= 1.2.3)
   factory_bot_rails (= 4.10.0)
-  ffaker (~> 1.16)
+  ffaker (~> 2.11)
   figaro
   foreigner
   foundation-icons-sass-rails

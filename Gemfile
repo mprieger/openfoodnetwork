@@ -21,7 +21,7 @@ gem 'pg', '~> 0.21.0'
 gem 'acts_as_list', '= 0.3.0'
 gem 'awesome_nested_set', '~> 3.0.0.rc.1'
 gem 'cancan', '~> 1.6.10'
-gem 'ffaker', '~> 1.16'
+gem 'ffaker', '~> 2.11'
 gem 'highline', '2.0.3' # Necessary for the install generator
 gem 'json', '>= 1.7.7'
 gem 'money', '5.1.1'
